@@ -418,3 +418,109 @@ body {
 }
 
 /**************Menu end*****************/
+
+/***************Coment******************/
+
+.coment {
+  background-color: #e5e5e5;
+  padding-top: 104px;
+  padding-bottom: 139px;
+}
+
+.coment-text {
+  text-align: center;
+  font-style: italic;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.coment-img {
+  border-radius: 50px;
+}
+
+.coment-image {
+  text-align: center;
+}
+
+.coment-type {
+  font-weight: 600;
+  font-size: 20px;
+  text-align: center;
+}
+
+.coment-name {
+  padding-top: 9px;
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+}
+
+/************Coment end*************/
+
+/***************Galery**************/
+
+.galery-title {
+  font-family: "Tinos", serif;
+  font-size: 54px;
+  text-align: center;
+  padding-top: 100px;
+  margin-bottom: 60px;
+}
+
+.galery-title span {
+  color: #d67e34;
+}
+
+.galery-content {
+  display: flex;
+  justify-content: center;
+}
+
+.galery-left {
+  margin-right: 20px;
+}
+
+.galery-down,
+.galery-up {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+/************Galery end***********/
+
+/***************Cook**************/
+
+.cook {
+  padding-bottom: 100px;
+}
+
+.cook-title {
+  font-family: "Tinos", serif;
+  font-size: 54px;
+  text-align: center;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+
+.cook-title span {
+  color: #d67e34;
+}
+
+.cook-content {
+  display: flex;
+  justify-content: space-around;
+}
+
+/************Cook end***********/
+
+/*************Footer************/
+
+.footer {
+  background-color: #000000;
+  padding: 50px 0px;
+  color: #ffffff;
+  text-align: center;
+}
+
+/***********Footer end**********/
